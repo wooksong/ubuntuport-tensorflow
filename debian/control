@@ -39,3 +39,9 @@ Description: TensorFlow provides a C API that can be used
  in c_api.h and designed for simplicity and uniformity
  rather than convenience.
 
+Package: tensorflow-lite-dev
+Architecture: any
+Depends: ${misc:Depends}
+Description: Tensorflow Lite development headers and object file
+ This package contains the Tensorflow Lite development header and
+ static library.

@@ -1,3 +1,9 @@
+tensorflow (1.15.2-2) unstable xenial bionic; urgency=medium
+
+  * Provide tensorflow-lite-dev containing the header and static library files
+
+ -- Wook Song <wook16.song@samsung.com>  Fri, 14 Feb 2020 14:36:10 +0900
+
 tensorflow (1.15.2-1) unstable xenial bionic; urgency=medium
 
   * Update the version to 1.15.2
